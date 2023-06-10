@@ -1,6 +1,9 @@
 import React from 'react'
 
-
+const MenuCard = ( {menudata}) =>{
+        
+ return(
+         <>
 <div className="card-container">
         <div className="card">
             <div className="card-body">
